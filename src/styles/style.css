@@ -8,7 +8,7 @@
   }
   
   .finder {
-    background: url('../images/pattern-bg-desktop-1.jpg');
+    background: url('../src/images/pattern-bg-desktop-1.jpg');
     background-size: cover;
     padding: 2rem 1.5rem 17.5rem;
     text-align: center;
